@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9XIZO1N3G78bkHDeEMhuaU",
+    "name" : "IICS_SAP_Assets",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Created for testing Asset jobs through Control-M in QA.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
